@@ -7,3 +7,6 @@ Estoy aprendiendo Git y GitHub.
 Descripción del perfil
 
 Información de contacto
+
+Commit:
+Añadir título del perfil
