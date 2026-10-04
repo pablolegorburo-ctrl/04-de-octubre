@@ -10,3 +10,6 @@ Información de contacto
 
 Commit:
 Añadir título del perfil
+Estoy aprendiendo Git y GitHub.
+
+Sección de contacto añadida.
